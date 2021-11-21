@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(218, 214, 198, 0.685);
+}
+
+form{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: fixed;
+    left: 40%;
+    top: 20%;
+    background-color: white;
+    color: rgb(56, 117, 230);
+    border: white 30px solid;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+p{
+    font-size: 30px;
+    font: bold;
+}
+.r1{
+    position: fixed;
+    left: 550px;
+    top: 100px;
+    fill: rgba(243, 211, 235, 0.973);
+    stroke: rgba(243, 211, 235, 0.973);
+}
+.r2{
+    position: fixed;
+    left: 920px;
+    top: 550px;
+    fill: rgba(241, 205, 232, 0.973);
+    stroke: rgba(243, 211, 235, 0.973);
+}
+.ph{
+    padding: 10px 45px;
+}
+.date{
+    padding: 10px 55px;
+}
+.sign{
+    padding: 8px 95px;
+    position: absolute;
+    left: 20px;
+    color: white;
+    background-color: rgb(106, 14, 143);
+    font-size: 15px;
+}
+ul{
+    position: absolute;
+    left: 40px;
+    top: 350px;
+}
